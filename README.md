@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# 🌟 Sydney's GitHub Portfolio
+# 🌟 Sydney's GitHub 
 
 **Welcome to my GitHub!**  
 I'm Sydney, a **Data Science and Machine Learning student** with a strong interest in **software development** and **AI**. I enjoy solving challenging problems, building engaging applications, and continually learning new technologies.
@@ -52,8 +50,7 @@ Built and trained a basic neural network without using external libraries:
 
 ## 🤝 Let's Connect!
 - **GitHub**: [github.com/syd9191](https://github.com/syd9191)
-- **Email**: [sydney@example.com](mailto:sydney@example.com)
-- **Portfolio**: [Your Portfolio Link Here](#)
+- **Email**: [sydney@example.com](mailto:E1121879@u.nus.edu)
 
 ---
 
