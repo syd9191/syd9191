@@ -50,7 +50,7 @@ Built and trained a basic neural network without using external libraries:
 
 ## 🤝 Let's Connect!
 - **GitHub**: [github.com/syd9191](https://github.com/syd9191)
-- **Email**: [sydney@example.com](mailto:E1121879@u.nus.edu)
+- **Email**: [Email](mailto:E1121879@u.nus.edu)
 
 ---
 
