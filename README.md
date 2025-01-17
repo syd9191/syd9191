@@ -7,6 +7,18 @@ I'm Sydney, a **Data Science and Machine Learning student** with a strong intere
 
 ## 🔥 Featured Projects
 
+
+### 🤖 [SHATGPT Chatbot](https://github.com/syd9191/shatGPT)
+A chatbot application using the MERN stack with integration to OpenAI's API:
+- **Features**:
+  - User can interact with the chatbot via a REACT interface.
+  - Backend powered by Express.js and Node.js for efficient data handling.
+  - Integrates with OpenAI's API for generating responses based on user input.
+  - Real-time communication with the use of WebSocket.
+  - Utilizes MongoDB to store user conversation history.
+- **Technologies**: JavaScript, Node.js, Express.js, MongoDB, React, OpenAI.
+
+
 ### 🚦 [Traffic Sign Classifier](https://github.com/syd9191/Traffic-Sign-Classifier)
 A machine learning model that identifies traffic signs using image classification:
 - **Highlights**:
