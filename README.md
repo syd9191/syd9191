@@ -16,7 +16,7 @@ A chatbot application using the MERN stack with integration to OpenAI's API:
   - Integrates with OpenAI's API for generating responses based on user input.
   - Real-time communication with the use of WebSocket.
   - Utilizes MongoDB to store user conversation history.
-- **Technologies**: JavaScript, Node.js, Express.js, MongoDB, React, OpenAI.
+- **Technologies**: JavaScript, Node.js, Express.js, MongoDB, React, OpenAI, Python, Fastapi.
 
 
 ### 🚦 [Traffic Sign Classifier](https://github.com/syd9191/Traffic-Sign-Classifier)
