@@ -7,7 +7,7 @@ I'm Sydney, a **Data Science and Machine Learning student** with a strong intere
 
 ## 🔥 Featured Projects
 
-### 🧠 [GPT-2 From Scratch][https://github.com/syd9191/GPT2-exploration]
+### 🧠 [GPT-2 From Scratch](https://github.com/syd9191/GPT2-exploration)
 This project implements a custom GPT-2-style language model pipeline from scratch using PyTorch. 
 - **Features**:
 - full training, evaluation, logging, distributed training support, and token-level streaming from disk.
